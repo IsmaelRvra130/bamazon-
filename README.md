@@ -39,10 +39,10 @@ This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
 
 <h2>Technologies used.</h2>
-    <li>
-        <ul>Node.js</ul>
-        <ul>Mysql</ul>
-        <ul>JavaScript</ul>
-        <ul>NPM package Inquirer</ul>
-        <ul>NPM package Mysql</ul>
-    </li>
+    
+<li>Node.js</li>
+<li>Mysql</li>
+<li>JavaScript</li>
+<li>NPM package Inquirer</li>
+<li>NPM package Mysql</li>
+    

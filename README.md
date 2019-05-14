@@ -37,3 +37,12 @@ However, if your store does have enough of the product, you should fulfill the c
 
 This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
+
+<h2>Technologies used.</h2>
+    <li>
+        <ul>Node.js</ul>
+        <ul>Mysql</ul>
+        <ul>JavaScript</ul>
+        <ul>NPM package Inquirer</ul>
+        <ul>NPM package Mysql</ul>
+    </li>
